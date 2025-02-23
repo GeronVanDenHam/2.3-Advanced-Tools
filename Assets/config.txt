@@ -1,0 +1,6 @@
+recordingDuration=120
+rotationSpeed=50
+selectedObjectType=Circle
+randomSeed=107
+spawnRadius=12
+numberOfObjects=5000

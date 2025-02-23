@@ -1,0 +1,19 @@
+Frame,Time (s),FPS,Collisions,Active Objects,Collider Type
+1,0,0,0,1,Sphere
+2,0,208,2,6,Sphere
+3,0,213,2,11,Sphere
+4,0,235,2,16,Sphere
+5,1,252,2,21,Sphere
+6,1,284,4,26,Sphere
+7,1,292,6,31,Sphere
+8,1,279,6,36,Sphere
+9,1,270,8,41,Sphere
+10,1,201,12,46,Sphere
+11,1,279,12,51,Sphere
+12,1,185,18,56,Sphere
+13,1,257,26,61,Sphere
+14,1,248,28,66,Sphere
+15,2,188,32,71,Sphere
+16,2,271,42,76,Sphere
+17,2,246,52,81,Sphere
+18,2,235,54,86,Sphere
